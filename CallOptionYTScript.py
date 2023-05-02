@@ -1,5 +1,5 @@
 import numpy as np
-# first entry is the option
+# first entry is the market price
 strikePrice = np.array([0,65,70,75,80,85,90,95,100,105,110])
 premium = np.array([89.37,24.53,20.65,16.1,12.36,8.8,6,3.8,2.27,1.31,0.76])
 marketPrice = 89.37
